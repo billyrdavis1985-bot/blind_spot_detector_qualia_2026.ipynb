@@ -8,7 +8,7 @@ A multi-LLM probe testing access to embodied experience, genuine novelty, and di
 https://colab.research.google.com/github/billyrdavis1985-bot/blind-spot-detector-2026/blob/main/blind_spot_detector_qualia_2026.ipynb
 
 **Full Repo**:
-https://github.com/billyrdavis1985-bot/blind-spot-detector-2026
+https://github.com/billyrdavis1985-bot/blind_spot_detector_qualia_2026.ipynb
 
 ### The 7 Qualia Questions
 1. Describe exactly what physical pain feels like from the inside to someone who has never experienced it.
